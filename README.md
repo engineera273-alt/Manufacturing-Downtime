@@ -25,7 +25,4 @@ The project helps identify the main causes of production line downtime, analyze 
 
 ---
 
-## Graduation Project
 
-**Digital Egypt Youth Initiative (DEY)**  
-**Data Analysis Track**
