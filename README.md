@@ -16,7 +16,7 @@ The project helps identify the main causes of production line downtime, analyze 
 
 ## Team Members
 
-1. **Eng. Maryam Ramadan Zaki**
+1. **Eng. Mariam Ramadan Zaky**
 2. **Eng. Doaa Hesham**
 3. **Eng. Sama Said Attia**
 4. **Eng. Mohamed Hosny**
