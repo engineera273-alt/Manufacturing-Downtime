@@ -21,7 +21,7 @@ The project helps identify the main causes of production line downtime, analyze 
 3. **Eng. Sama Said Attia**
 4. **Eng. Mohamed Hosny**
 5. **Eng. El-Sayed Mohamed El-Sayed**
-6. **Ahmed Mohamed Mahmoud Elshahat — Team Leader**
+6. **Eng. Ahmed Mohamed Mahmoud Alshahat — Team Leader**
 
 ---
 
